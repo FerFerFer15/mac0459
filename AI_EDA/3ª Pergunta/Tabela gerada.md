@@ -1,4 +1,4 @@
-          recomendacao_numero recomendacao_dia_encaminhamento   dias_desde_envio  
+id       recomendacao_numero        recomendacao_dia_encaminhamento   dias_desde_envio  
 897    A-149/CENIPA/2015 - 04                      2019-05-20               2035     
 896    A-149/CENIPA/2015 - 03                      2019-05-20               2035   
 312    A-036/CENIPA/2019 - 03                      2021-03-04               1381   
